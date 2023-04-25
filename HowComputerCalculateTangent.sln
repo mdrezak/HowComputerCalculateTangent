@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33530.505
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HowComputerCalculateTangent", "HowComputerCalculateTangent.csproj", "{51CE8ECC-0821-447F-9619-43A5C85654BB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{51CE8ECC-0821-447F-9619-43A5C85654BB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{51CE8ECC-0821-447F-9619-43A5C85654BB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{51CE8ECC-0821-447F-9619-43A5C85654BB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{51CE8ECC-0821-447F-9619-43A5C85654BB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {12EFB274-ABAF-4E9A-BDCB-5FEAB56B6E6B}
+	EndGlobalSection
+EndGlobal
